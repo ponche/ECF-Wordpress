@@ -11,6 +11,24 @@ Text Domain:  popschool-child
 */
 
 
+.site-title{ 
+    text-decoration: underline ; 
+}
+.site-title a:link{
+    color: orange !important;
+}
+.site-title a:hover{
+    color: goldenrod; 
+    
+}
+.site-title a:visited{
+    color: blue ; 
+}
+
 .entry-title{
     color: red;
+}
+
+.entry-content{
+    color: green; 
 }
